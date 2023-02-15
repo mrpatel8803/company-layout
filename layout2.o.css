@@ -1,0 +1,81 @@
+.logo{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 10%;
+    left: 8%;
+    background-color: rgb(1, 49, 51);
+}
+
+.logo2{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 12%;
+    left: 9%;
+    background-color: rgba(204, 204, 204, 0.7);
+    background-blend-mode: lighten;
+}
+
+.text_2{
+    margin-left: 1027px;
+    margin-top: -1190px;
+    height: 40%;
+    text-align: center;
+    font-size: 52px;
+    position: absolute;
+    font-weight: bolder;
+    color: aliceblue;
+    background-color: rgba(1, 49, 51, 0.7);
+    border-radius: 0% 0% 100% 100%;
+    padding-top: 5%;
+}
+.center_text{
+    margin-top: 6%;
+    margin-left: 113px;
+    font-size: 30;
+
+}
+
+.font_1{
+    color: orange;
+    font-size: 60;
+}
+
+.tag_1{
+    margin-top: -58px;
+    margin-left: 75px;
+}
+
+.center_pare_1{
+    margin-left: 74px;
+}
+
+.font_2{
+    color: orange;
+    font-size: 60;
+}
+
+.tag_2{
+    margin-top: -58px;
+    margin-left: 75px;
+}
+
+.center_pare_2{
+    margin-left: 74px;
+}
+
+.font_3{
+    color: orange;
+    font-size: 60;
+}
+
+.tag_3{
+    margin-top: -58px;
+    margin-left: 75px;
+}
+
+.center_pare_3{
+    margin-left: 74px;
+}
+
