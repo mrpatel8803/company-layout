@@ -16,55 +16,63 @@
 }
 .center_text{
     margin-top: 6%;
-    margin-left: 113px;
-    font-size: 30;
+    padding-left: 15%;
+    font-size: 60;
     color: rgb(0,84,84);
 
 }
 
 .font_1{
     color: orange;
-    font-size: 60;
+    font-size: 90;
+    
 }
 
 .tag_1{
     margin-top: -58px;
     margin-left: 75px;
     color: rgb(0,84,84);
+    padding-left: 1%;
+    font-size: 20px;
 }
 
 .center_pare_1{
     margin-left: 74px;
+    padding-left: 1%;
 }
 
 .font_2{
     color: orange;
-    font-size: 60;
+    font-size: 90;
 }
 
 .tag_2{
     margin-top: -58px;
     margin-left: 75px;
     color: rgb(0,84,84);
+    padding-left: 1%;
 }
 
 .center_pare_2{
     margin-left: 74px;
+    padding-left: 1%;
 }
 
 .font_3{
     color: orange;
-    font-size: 60;
+    font-size: 90;
 }
 
 .tag_3{
     margin-top: -58px;
     margin-left: 75px;
     color: rgb(0,84,84);
+    padding-left: 1%;
 }
 
 .center_pare_3{
     margin-left: 74px;
+    padding-left: 1%;
 }
 
 .heading_1{
@@ -126,7 +134,8 @@
 
 .right_2{
     margin-left: 60%;
-    padding-top: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
     height: 30%;
     width: 40%;
     text-align: center;
@@ -142,11 +151,12 @@
 
 .right_3{
     margin-left: 60%;
-    margin-top: 3%;
     padding-top: 5%;
-    height: 30%;
+    padding-bottom: 5%;
+    font-size: 40px;
+    height: 10%;
     width: 40%;
     text-align: center;
     background-color: gray;
     color: aliceblue;
-}
+}   
